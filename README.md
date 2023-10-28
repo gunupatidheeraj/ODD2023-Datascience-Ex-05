@@ -1,5 +1,4 @@
 # Ex:05 Feature Generation
-
 ## AIM
 To read the given data and perform Feature Generation process and save the data to a file. 
 
