@@ -19,8 +19,8 @@ Save the data to the file.
 
 # CODE
 ```
-Developed by: chadalawada jaswanth
-Register number : 212221040030
+Developed by: gunupati dheeraj
+Register number : 212221040050
 ```
 ## Data.csv:
 ```python
